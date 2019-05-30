@@ -30,13 +30,13 @@
 
 [[iOS] 位置情報の取得 (Swift3編)](https://dev.classmethod.jp/smartphone/ios-corelocation-swift3/)
 
-[ジオコーディングと逆ジオコーディングをする方法(Google Geocoding APIの使い方)](https://syncer.jp/how-to-use-geocoding-api)
-
-[逆ジオコーディングをfinds.jpに乗り換えてみた](https://qiita.com/jkr_2255/items/225f0c53e54dc4f265d1)
-
 [[iOS] MapKitを使って”ジオコーディング・逆ジオコーディング”をやってみる](https://dev.classmethod.jp/smartphone/iphone/geocoding-use-mapkit/)
 
 [Androidで位置情報を扱うときの3つのTips](https://qiita.com/kikuchy/items/c79241b0488cb40c1da6)
+
+[ジオコーディングと逆ジオコーディングをする方法(Google Geocoding APIの使い方)](https://syncer.jp/how-to-use-geocoding-api)
+
+[逆ジオコーディングをfinds.jpに乗り換えてみた](https://qiita.com/jkr_2255/items/225f0c53e54dc4f265d1)
 
 
 ## [合成音声](https://qiita.com/maKunugi/items/90cbefe97887470fb328)
