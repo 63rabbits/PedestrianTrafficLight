@@ -36,7 +36,7 @@
 
 [[iOS] MapKitを使って”ジオコーディング・逆ジオコーディング”をやってみる](https://dev.classmethod.jp/smartphone/iphone/geocoding-use-mapkit/)
 
-
+[Androidで位置情報を扱うときの3つのTips](https://qiita.com/kikuchy/items/c79241b0488cb40c1da6)
 
 
 ## [合成音声](https://qiita.com/maKunugi/items/90cbefe97887470fb328)
