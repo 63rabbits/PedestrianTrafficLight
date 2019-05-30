@@ -23,3 +23,22 @@
 * 歩行者信号機のアイコン（人形）は各国で違う->入れ替え可能に
 * 音声も入れ替え可能に
 * 道案内
+
+## 現在位置
+
+[[Android] GPSで位置情報を取得するアプリを作る](https://akira-watson.com/android/gps.html)
+
+[[iOS] 位置情報の取得 (Swift3編)](https://dev.classmethod.jp/smartphone/ios-corelocation-swift3/)
+
+[ジオコーディングと逆ジオコーディングをする方法(Google Geocoding APIの使い方)](https://syncer.jp/how-to-use-geocoding-api)
+
+[逆ジオコーディングをfinds.jpに乗り換えてみた](https://qiita.com/jkr_2255/items/225f0c53e54dc4f265d1)
+
+
+## [合成音声](https://qiita.com/maKunugi/items/90cbefe97887470fb328)
+
+iOS : [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundation/avspeechsynthesizer)
+
+Android : [TextToSpeech](https://developer.android.com/reference/android/speech/tts/TextToSpeech)
+
+
