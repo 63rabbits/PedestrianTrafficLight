@@ -46,3 +46,13 @@ iOS : [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundati
 Android : [TextToSpeech](https://developer.android.com/reference/android/speech/tts/TextToSpeech)
 
 
+## 問題点
+
+1. 日中は信号機中のアイコン（人）が判別できるが、夜間は光が拡散してアイコンの形が判別できない。
+1. 西日本（商用電源周波数６０Hz）では、LED信号機の信号が写ったり消えたりする。
+
+
+※環境:iPad mini 2 1080p/30fps動画撮影
+
+
+
