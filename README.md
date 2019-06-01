@@ -52,7 +52,7 @@ Android : [TextToSpeech](https://developer.android.com/reference/android/speech/
 1. 西日本（商用電源周波数６０Hz）では、LED信号機の信号が写ったり消えたりする。
 
 
-※環境:iPad mini 2 1080p/30fps動画撮影
+※環境:iPad mini 2 : 5Mpixel 1080p/30fps動画撮影
 
 
 
