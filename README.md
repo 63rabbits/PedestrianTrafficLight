@@ -50,6 +50,7 @@ Android : [TextToSpeech](https://developer.android.com/reference/android/speech/
 
 1. 日中は信号機中のアイコン（人）が判別できるが、夜間は光が拡散してアイコンの形が判別できない。
 1. 西日本（商用電源周波数６０Hz）では、LED信号機の信号が写ったり消えたりする。
+fpsの設定変更で対応可能と考えたが、機種により可不可があったり、変更可能であっても設定値が選択式であったりする（自由設定不可）。別途対策が必要。
 
 
 ※環境:iPad mini 2 : 5Mpixel 1080p/30fps動画撮影
