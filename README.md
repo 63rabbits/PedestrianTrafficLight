@@ -58,7 +58,7 @@ fpsの設定変更で対応可能と考えたが、機種により可不可が�
 
 **信号が徐々に消える理由**：カメラの30fpsは公称であり実際は29.97fpsである。30fpsなら理論的には信号が写る/写らないかのいずれかであるが、実際は29.97fpsであるため徐々にタイミングがズレていき、写ったり写らなかったりする。( [fpsとHzと点滅周期の関係](https://mofulog.blogspot.com/2017/12/Dashcam-TrafficSignal-Lost.html#chapter-12)、 [検証グラフ](https://www.desmos.com/calculator/qnktlmbld1))
 
-→ISO感度を下げてシャッタースピードを遅くすることで解決するか？
+→シャッタースピードを遅くする（必要ならISO感度を下げる）ことで解決するか？
 
 ※環境:iPad mini 2 : 5Mpixel 1080p/30fps動画撮影
 
