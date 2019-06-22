@@ -74,6 +74,6 @@ fpsの設定変更で対応可能と考えたが、機種により可不可が�
 * ☓　絞り(f値)
 * ○　ISO感度
 
-
+[スマートフォンのカメラ画質がどのように決まるのかをカメラの基本原理から解説](https://gigazine.net/news/20150915-how-smartphone-camera-work/#group=nogroup&photo=3)
 
 
