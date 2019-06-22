@@ -40,6 +40,7 @@
 
 [逆ジオコーディングをfinds.jpに乗り換えてみた](https://qiita.com/jkr_2255/items/225f0c53e54dc4f265d1)
 
+[国土地理院 タイル座標確認ページ](https://maps.gsi.go.jp/development/tileCoordCheck.html)
 
 ## [合成音声](https://qiita.com/maKunugi/items/90cbefe97887470fb328)
 
