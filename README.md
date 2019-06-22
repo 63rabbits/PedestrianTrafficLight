@@ -57,7 +57,7 @@ fpsの設定変更で対応可能と考えたが、機種により可不可が�
 
 ![消失する信号](https://github.com/63rabbits/Under-construction/blob/master/Disappearing%20signal.gif)
 
-**信号が徐々に消える理由**：カメラの30fpsは公称であり実際は29.97fpsである。30fpsなら理論的には信号が写る/写らないかのいずれかであるが、実際は29.97fpsであるため徐々にタイミングがズレていき、写ったり写らなかったりする。( [fpsとHzと点滅周期の関係](https://mofulog.blogspot.com/2017/12/Dashcam-TrafficSignal-Lost.html#chapter-12)、 [検証グラフ](https://www.desmos.com/calculator/qnktlmbld1))
+**信号が徐々に消える理由**：カメラの30fpsは公称であり厳密には29.97fpsである。30fpsなら理論的には信号が写る/写らないかのいずれかであるが、実際は29.97fpsであるため徐々にタイミングがズレていき、写ったり写らなかったりする。( [fpsとHzと点滅周期の関係](https://mofulog.blogspot.com/2017/12/Dashcam-TrafficSignal-Lost.html#chapter-12)、 [検証グラフ](https://www.desmos.com/calculator/qnktlmbld1))
 
 →シャッタースピードを遅くする（必要ならISO感度を下げる）ことで解決するか？
 
