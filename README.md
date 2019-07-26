@@ -76,4 +76,7 @@ fpsの設定変更で対応可能と考えたが、機種により可不可が�
 
 [スマートフォンのカメラ画質がどのように決まるのかをカメラの基本原理から解説](https://gigazine.net/news/20150915-how-smartphone-camera-work/#group=nogroup&photo=3)
 
+# パターン認識
+
+[形を引く---形状の類似度](https://katsu.watanabe.name/doc/katachi/)
 
