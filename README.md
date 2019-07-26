@@ -50,9 +50,9 @@ Android : [TextToSpeech](https://developer.android.com/reference/android/speech/
 
 ## 形状の照合
 
-[形を引く---形状の類似度](https://katsu.watanabe.name/doc/katachi/)
+[形を引く---形状の類似度](https://katsu.watanabe.name/doc/katachi/) ... 形状の大きさや回転の影響を受けない。
 
-[OpenCV - matchShape() で輪郭の類似度を計算する。](http://pynote.hatenablog.com/entry/opencv-match-shape)
+[OpenCV - matchShape() で輪郭の類似度を計算する。](http://pynote.hatenablog.com/entry/opencv-match-shape) ... 形状の大きさや回転の影響を受けない。Huモーメントを使っている。
 
 
 
