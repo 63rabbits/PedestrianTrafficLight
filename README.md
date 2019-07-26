@@ -51,6 +51,8 @@ Android : [TextToSpeech](https://developer.android.com/reference/android/speech/
 ## パターン認識
 
 [形を引く---形状の類似度](https://katsu.watanabe.name/doc/katachi/)
+[OpenCV - matchShape() で輪郭の類似度を計算する。](http://pynote.hatenablog.com/entry/opencv-match-shape)
+
 
 
 
