@@ -48,7 +48,7 @@ iOS : [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundati
 
 Android : [TextToSpeech](https://developer.android.com/reference/android/speech/tts/TextToSpeech)
 
-## パターン認識
+## 形状の照合
 
 [形を引く---形状の類似度](https://katsu.watanabe.name/doc/katachi/)
 
