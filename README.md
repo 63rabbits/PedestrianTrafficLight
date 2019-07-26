@@ -48,6 +48,11 @@ iOS : [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfoundati
 
 Android : [TextToSpeech](https://developer.android.com/reference/android/speech/tts/TextToSpeech)
 
+## パターン認識
+
+[形を引く---形状の類似度](https://katsu.watanabe.name/doc/katachi/)
+
+
 
 ## 問題点
 
@@ -75,8 +80,4 @@ fpsの設定変更で対応可能と考えたが、機種により可不可が�
 * ○　ISO感度
 
 [スマートフォンのカメラ画質がどのように決まるのかをカメラの基本原理から解説](https://gigazine.net/news/20150915-how-smartphone-camera-work/#group=nogroup&photo=3)
-
-# パターン認識
-
-[形を引く---形状の類似度](https://katsu.watanabe.name/doc/katachi/)
 
